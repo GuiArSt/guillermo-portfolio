@@ -1,0 +1,222 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 221.2 83.2% 53.3%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 221.2 83.2% 53.3%;
+    --radius: 0.5rem;
+
+    /* Custom colors */
+    --navy: 215 50% 15%;
+    --navy-light: 215 45% 20%;
+    --navy-lighter: 215 40% 25%;
+    --navy-dark: 215 55% 10%;
+    --paper: 40 30% 96%;
+    --gold: 43 74% 49%;
+    --crimson: 348 83% 47%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 224.3 76.3% 48%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.font-mono {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.bg-navy {
+  background-color: hsl(var(--navy));
+}
+
+.bg-navy-light {
+  background-color: hsl(var(--navy-light));
+}
+
+.bg-navy-lighter {
+  background-color: hsl(var(--navy-lighter));
+}
+
+.bg-navy-dark {
+  background-color: hsl(var(--navy-dark));
+}
+
+.text-paper {
+  color: hsl(var(--paper));
+}
+
+.text-gold {
+  color: hsl(var(--gold));
+}
+
+.text-crimson {
+  color: hsl(var(--crimson));
+}
+
+.bg-gold {
+  background-color: hsl(var(--gold));
+}
+
+.bg-crimson {
+  background-color: hsl(var(--crimson));
+}
+
+.border-gold {
+  border-color: hsl(var(--gold));
+}
+
+.border-navy {
+  border-color: hsl(var(--navy));
+}
+
+.border-crimson {
+  border-color: hsl(var(--crimson));
+}
+
+/* Mystical geometric pattern for portfolio */
+.bg-mystical-geometric {
+  background-color: hsl(var(--navy));
+  background-image: linear-gradient(to right, hsla(var(--navy-lighter), 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, hsla(var(--navy-lighter), 0.05) 1px, transparent 1px),
+    radial-gradient(hsla(var(--gold), 0.015) 2px, transparent 2px);
+  background-size: 30px 30px, 30px 30px, 60px 60px;
+  background-position: 0 0, 0 0, 15px 15px;
+}
+
+.bg-mystical-geometric-light {
+  background-color: hsl(var(--navy-light));
+  background-image: linear-gradient(
+      30deg,
+      hsla(var(--navy-lighter), 0.1) 12%,
+      transparent 12.5%,
+      transparent 87%,
+      hsla(var(--navy-lighter), 0.1) 87.5%,
+      hsla(var(--navy-lighter), 0.1)
+    ),
+    linear-gradient(
+      150deg,
+      hsla(var(--navy-lighter), 0.1) 12%,
+      transparent 12.5%,
+      transparent 87%,
+      hsla(var(--navy-lighter), 0.1) 87.5%,
+      hsla(var(--navy-lighter), 0.1)
+    ),
+    linear-gradient(
+      30deg,
+      hsla(var(--navy-lighter), 0.1) 12%,
+      transparent 12.5%,
+      transparent 87%,
+      hsla(var(--navy-lighter), 0.1) 87.5%,
+      hsla(var(--navy-lighter), 0.1)
+    ),
+    linear-gradient(
+      150deg,
+      hsla(var(--navy-lighter), 0.1) 12%,
+      transparent 12.5%,
+      transparent 87%,
+      hsla(var(--navy-lighter), 0.1) 87.5%,
+      hsla(var(--navy-lighter), 0.1)
+    );
+  background-size: 80px 140px;
+  background-position: 0 0, 0 0, 40px 70px, 40px 70px;
+}
+
+.bg-mystical-geometric-dark {
+  background-color: hsl(var(--navy-light));
+  background-image: linear-gradient(
+      0deg,
+      transparent 24%,
+      hsla(var(--navy-lighter), 0.05) 25%,
+      hsla(var(--navy-lighter), 0.05) 26%,
+      transparent 27%,
+      transparent 74%,
+      hsla(var(--navy-lighter), 0.05) 75%,
+      hsla(var(--navy-lighter), 0.05) 76%,
+      transparent 77%,
+      transparent
+    ),
+    linear-gradient(
+      90deg,
+      transparent 24%,
+      hsla(var(--navy-lighter), 0.05) 25%,
+      hsla(var(--navy-lighter), 0.05) 26%,
+      transparent 27%,
+      transparent 74%,
+      hsla(var(--navy-lighter), 0.05) 75%,
+      hsla(var(--navy-lighter), 0.05) 76%,
+      transparent 77%,
+      transparent
+    );
+  background-size: 50px 50px;
+}
+
+/* Mystical organic pattern for publications */
+.bg-mystical-organic {
+  background-color: hsl(var(--navy));
+  background-image: radial-gradient(circle at 25% 25%, hsla(var(--navy-lighter), 0.2) 5%, transparent 6%),
+    radial-gradient(circle at 75% 75%, hsla(var(--navy-lighter), 0.2) 5%, transparent 6%),
+    radial-gradient(circle at 50% 50%, hsla(var(--gold), 0.05) 8%, transparent 9%);
+  background-size: 60px 60px;
+}
+
+.bg-mystical-organic-light {
+  background-color: hsl(var(--navy-light));
+  background-image: radial-gradient(circle at 50% 50%, hsla(var(--navy-lighter), 0.1) 0%, transparent 60%),
+    radial-gradient(circle at 20% 80%, hsla(var(--crimson), 0.03) 0%, transparent 40%),
+    radial-gradient(circle at 80% 20%, hsla(var(--gold), 0.03) 0%, transparent 40%);
+  background-size: 100px 100px, 150px 150px, 200px 200px;
+  background-position: 0 0, 50px 50px, -50px -50px;
+}
+
+.bg-grid {
+  background-color: hsl(var(--background));
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
