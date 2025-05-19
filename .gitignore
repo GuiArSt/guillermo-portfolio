@@ -25,3 +25,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Cursor & Editor specific
+.cursor/
+
+# Legacy content (not part of the build)
+Legacy/
+
+# OS-specific
+.DS_Store
+
+# Build caches / Monorepo tools
+cache/
+.turbo/
+
+# More general log files
+*.log

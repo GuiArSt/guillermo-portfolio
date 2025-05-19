@@ -18,8 +18,18 @@ export default function Navbar() {
   }
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      <div className="container flex h-16 items-center justify-between">
+    <header className="relative sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+      <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" style={{ position: 'absolute', top: 0, left: 0, zIndex: -1, opacity: 0.05 }}>
+        <defs>
+          <pattern id="placeholderPattern" patternUnits="userSpaceOnUse" width="20" height="20" patternTransform="rotate(45)">
+            <line x1="0" y1="0" x2="0" y2="20" stroke="rgba(128, 128, 128, 0.5)" strokeWidth="1"/>
+            <line x1="10" y1="0" x2="10" y2="20" stroke="rgba(128, 128, 128, 0.3)" strokeWidth="0.5"/>
+          </pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#placeholderPattern)" />
+      </svg>
+
+      <div className="relative z-10 container flex h-16 items-center justify-between">
         <Link href="/" className="font-bold text-xl">
           Guillermo A. Stumpf
         </Link>

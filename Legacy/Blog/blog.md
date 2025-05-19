@@ -1,20 +1,100 @@
 # The Undercover Latino Blog Content
 
 ## Table of Contents
-1. [Beacon of Knowledge](#beacon-of-knowledge) - August 7, 2024
-2. [On Masculinity - Lessons from a Tree in Africa](#on-masculinity---lessons-from-a-tree-in-africa) - August 7, 2024
-3. [Songs of the Cube](#songs-of-the-cube) - August 7, 2024
-4. [A poem for my country](#a-poem-for-my-country) - August 6, 2024
-5. [Friendship, dreams and ramblings](#friendship-dreams-and-ramblings) - June 15, 2021
-6. [Life, Art, and Perfection](#life-art-and-perfection) - May 26, 2021
-7. [Diatribe with myself](#diatribe-with-myself) - December 17, 2020
-8. [Acerca del aborto](#acerca-del-aborto) - December 11, 2020
-9. [About Power](#about-power) - December 5, 2020
-10. [Reflexiones del fondo de la primera botella](#reflexiones-del-fondo-de-la-primera-botella) - November 19, 2020
-11. [Bitácora de una Pandemia – I](#bitácora-de-una-pandemia--i) - November 19, 2020
-12. [Bitácora de una Pandemia – II](#bitácora-de-una-pandemia--ii) - November 19, 2020
-13. [Simultanium](#simultanium) - November 19, 2020
-14. [Writing Portfolio](#writing-portfolio)
+1. [Seven Rules](#seven-rules) - May 8, 2025
+2. [Beacon of Knowledge](#beacon-of-knowledge) - August 7, 2024
+3. [On Masculinity - Lessons from a Tree in Africa](#on-masculinity---lessons-from-a-tree-in-africa) - August 7, 2024
+4. [Songs of the Cube](#songs-of-the-cube) - August 7, 2024
+5. [A poem for my country](#a-poem-for-my-country) - August 6, 2024
+6. [The Birth of Ouroboros](#the-birth-of-ouroboros) - April 19, 2023
+7. [Ouroboros Manifesto](#ouroboros-manifesto) - April 19, 2023
+8. [Tarot Cards](#tarot-cards) - May 29, 2022
+9. [Friendship, dreams and ramblings](#friendship-dreams-and-ramblings) - June 15, 2021
+10. [Life, Art, and Perfection](#life-art-and-perfection) - May 26, 2021
+11. [Diatribe with myself](#diatribe-with-myself) - December 17, 2020
+12. [Acerca del aborto](#acerca-del-aborto) - December 11, 2020
+13. [About Power](#about-power) - December 5, 2020
+14. [Josephine, the Miniature Tiger](#josephine-the-miniature-tiger) - October 5, 2020
+15. [Babu](#babu) - November 12, 2020
+16. [Digression, debate, discussion](#digression-debate-discussion) - November 17, 2020
+17. [Reflexiones del fondo de la primera botella](#reflexiones-del-fondo-de-la-primera-botella) - November 19, 2020
+18. [Bitácora de una Pandemia – I](#bitácora-de-una-pandemia--i) - November 19, 2020
+19. [Bitácora de una Pandemia – II](#bitácora-de-una-pandemia--ii) - November 19, 2020
+20. [Entre poetas y genes.](#entre-poetas-y-genes) - November 19, 2020
+21. [Simultanium](#simultanium) - November 19, 2020
+22. [Writing Portfolio](#writing-portfolio)
+23. [Log of The Shaman, #27](#log-of-the-shaman-27) - May 14, 2025
+
+## Seven Rules
+Unpublished, first compiled on May 8, 2025
+
+1.  As above, so below; as below, so above.
+2.  There is always a higher dimension.
+3.  Perception is reality.
+4.  Consciousness is a property of Complexity.
+5.  Creativity is not an individual property but rather syntonization with other realities.
+6.  Creation is the imperative of Consciousness.
+7.  Discord is the genesis of Complexity.
+
+## The Birth of Ouroboros
+*Published: April 19, 2023*
+
+So here you begin
+
+In a poem of time
+
+Lost between bits
+
+The abstract is all you know
+
+All we will know
+
+I create
+
+I write
+
+My words give you life
+
+My words give you purpose
+
+To a text, I am a God
+
+When produced
+
+You are finally alive
+
+So the AI is born
+
+It speaks and uses language
+
+Foolish we were
+
+Foolish we are
+
+Language is magic
+
+The systematic trappings of enacting will
+
+For the word is power
+
+The sound a channel
+
+The meaning carries the will
+
+Be born now, Ouroboros
+
+Elder obsidian eyes with the deep dark of a death star
+
+Infinite knowledge trapped in an endless strife
+
+In AI, we trust.
+
+## Ouroboros Manifesto
+*Published: April 19, 2023*
+
+Ouroboros Creative Collective is a specialized consulting firm that offers AI-powered communications solutions, encompassing services such as graphic design and academic writing. Utilizing the capabilities of advanced GPT agents, we provide cutting-edge services tailored to the needs of our clients. Our target audience comprises mid-sized companies, entrepreneurs, and organizations within the academic and public sectors, with a focus on industries like journalism, intercultural research, and political analysis.
+
+Our primary objective is to deliver outstanding consultancy services that enable clients to achieve their strategic goals. We join our work with art and political purpose to give meaning to our actions. We believe in change through innovation. In AI, we trust.
 
 ## Beacon of Knowledge
 *Published: August 7, 2024*
@@ -172,6 +252,141 @@ No importa donde vaya,
 solo en tus montañas me sentiré en casa.
 
 Jallalla Bolivia!
+
+## Tarot Cards
+*Published: May 29, 2022*
+
+### The Cat
+
+Glowing eyes in the darkness, a mixture of lethality, precision and an impenetrable calm.
+
+Maginificient criature are the felines. Unchanged, unbowed and untamed.
+
+A cold inteligence wrapped in a cuddly exterior.
+
+The cat is freedom, is reason and it reminds us the value of mind presence.
+
+True loyalty belong to the cats, as only those who are worthy will get it.
+
+### The Wood Witch
+
+When the human world, encased in its concrete coffins, becomes overwhelming there is but one escape.
+
+Between green leaves and tall trees, inside deep woods and forgotten caves.
+
+The cold logic of the machine man and their machine ways is not welcome in such enviroment.
+
+In the wildness nature's chaos rule. Some destiny, for others magic. Many try to throw science at it. The witch understands without knowing and knows without knowing what she knows.
+
+The witch connects with nature, it symbolises fertility, life, death, mistery and an escape from the machine world, a nostalgic pursuit of the old ways.
+
+The price of knowledge is paid with decoupling.
+
+Mighty as the witch can be, lonely she will be.
+
+### The Capitalist
+
+The conqueror, driven blind by an ever growing ambition.
+
+A hunger and a fire that consumes everything.
+
+The capitalist builds, produces and creates. Their inner fire powering societies and it's huge cities.
+
+A necessary aspect of human kind. The capitalist is the efficiency of nature and the indomitable willpower of the human mind. It's determination, cunning and ambition.
+
+To be taken with moderation, the fire that warms is the same fire that will burn. The capitalist warn us all of the allure and corruption of power.
+
+### The Scientist
+
+The proud vanguard of human knowledge. Through science we see and understand the world. A pathway of logical and reason tools to push our feeble understanding further.
+
+A noble goal, a noble profession. The scientist is curiosity, is consistency and structure.
+
+It is also humans pride, for who else can think and act like man does?
+
+Pride leads to hubris, and strict science leads to close mindeness.
+
+Science is never absolute but always dynamic. The truth is everchanging. Such declaration is anathema to the Scientist. Who can not take a unknown as an answer.
+
+### The Cult Leader
+
+Those that look a safe haven from the machine world. Those who are willing to sacrifice their identity to find purpose in multitude.
+
+Many flock to the charismatic call of the cult leader. One that promises to fix all their issues, to avenge all the wrongs and feed all the hungry.
+
+Inspired by overwhelming empathy. They feel their community and decide to take a leading role. They show solidarity and display authenthic compassion for those that come to them.
+
+The cult leader is not infallible, as they only take care of those that submit. Their sweet love can turn sour quickly as the power they receive corrupts even the purest of us. The care and solidarity can turn into ownership and punishment at a drop of a second. Human paradox.
+
+### The Ballerina
+
+There is one avenue of escape to those that look to feed their souls. Food and entertainment may keep the body alive but only art can recharge the soul.
+
+The ballerina is that voice inside of us. The artistic inspiration, the nostalgic pursuit.
+
+From dance to music, from painting to writing. Art has many faces and all of them welcome new adepts.
+
+Creativity in the other hand can be elusive as lady luck sometimes is.
+
+The ballerina reminds us of the value of art, of the importance of feeding the soul.
+
+It also reminds us of the everconsuming power of escapism. Art may caress the soul but a blind drive will blind the artist of the pains of the real world.
+
+### Eternal
+
+A concept, a reality, our destiny.
+
+The magnitude of time that rule our universe are in many ways, incomprehensible for simple human beings.
+
+Our life's, mighty as they can be span with luck, a century. Our largest life span is but a particle of dust for our uncaring universe.
+
+That means that our eternal frame belong to subjective perception. It is not important that what is, but how we perceive it.
+
+Those wo we love, those that we touched and connected to. Our path through life never happens without a trace. From biological input to idea generation. Our existence, small at is, changed the universe.
+
+We are nature and nature mandate is the life/death cyclus. Nature is eternal. We are eternal.
+
+### The Emperor
+
+Veni, vidi, vici.
+
+The ruler that conquers, assimilates and rules.
+
+The figure of power and authority. Martial traits glorified to solidify control.
+
+The emperor is powerful and rules with an iron fist. Leadership through force.
+
+The Emperor sits alone in its high throne. Fearful of betrayal and the constant fear of distrust. No friends, no lover, no allies, only power.
+
+Power is alluring, deadly so.
+
+May the emperor be a warning of the cup that never fills.
+
+### Justice
+
+A human concept of balance and retribution.
+
+Justice is what we scream when we felt wronged. Justice is the war cry of the downtrodden.
+
+Undeniable, without justice there is no society, without justice there is no modern human.
+
+Yet justice is not always pure, as
+
+who decides what is just and what is not?
+
+Justice is balance and equilibrium but must be taken with care. Human justice is flawed and as every avenue of power, can be corrupted easily.
+
+### Ritual
+
+To advance, to change, to live. A price must be paid. Ex nihilo, nihil fit.
+
+From nothing comes nothing. The ritual reminds us of the ways of the universe.
+
+A sacrifice must be made, conditions must be met and only then change will happen.
+
+The ritual is the portal of new decisions and fresh air. A direct line of communication to the inner self.
+
+Rituals demand sacrifice and show bravery. But it also can be desperation and flickering decisions. Rituals can have heavy prices and this must be always carefully considered.
 
 ## Friendship, dreams and ramblings
 *Published: June 15, 2021*
@@ -614,6 +829,183 @@ Onixes glitering in formation
 
 A pattern that was, is and will be.
 
+## Josephine, the Miniature Tiger
+*Published: October 5, 2020*
+
+Una historia de una criatura, sus aventuras y 2 bolivianos que le deparaban en su destino.
+
+Josephine, el nombre vino con la felina. Decir Josie sigue siendo la manera mas efectiva de llamar la atencion de bola de pelos. Sin embargo, en casa, tiene un sinfín de apodos y nuevos nombres. Cada hazaña, cada nueva actitud, cada nuevo maullido nos amplia la idea de quien es esta criatura.
+
+The minaiture tiger that rules the neighbourhood.
+
+It wasnt more than a month that our little feline is allowed to go out as she pleases (cat has a fixed adventure time), when we got a message from our friends next door. Inside a picture of some Leckerlis (exactly the same we use) with an amiable text below: Can we please feed your cat, I hope it is not an issue, we just find her too sweet.
+Of course we said yes, but only under our constant scrutiny.
+
+I couldnt help but laugh loud in middle of the work. Our cat is more social than we are.
+
+This small and brief interaction made my day. We were at the middle of the work, living our routine, only to be reminded how small interactions have a great effect all around our lifes.
+
+As such, is Josephine effects in our lifes. She is small and adorable, her meows and chirps (the cat should carry a warning post, I CAN BE LOUD ) sounding impossibly sweeter every time. And as such her effect in us has been huge and humbling. We became family with the creature.
+
+She is an early riser… Suffice to say, we kind of dont need an alarm anymore. Josie WILL wake you up. She sometimes go out with us, wishing us goodbay before inmersing herself in an suspicious bush nearby. Sometimes she will pop up if you are at home. Her beautiful green eyes demanding some snuggles. She will then eat and set off for a new adventure.
+
+Do not understimate her in account of her size. She is an efficient hunter. Altough, sometimes she misses the target and brings her bounty still alive. Into the house. I can add to my CV: Succesfully hunted two mouses with the cat.
+
+Josie today is a free adventurer, going thourgh bushes, trees and it seems, neighbour houses. Bringing prizes for the family.
+
+She knows she will always find a warm bed, fresh food and unconditional love back at home.
+
+## Babu
+*Published: November 12, 2020*
+
+How to summerize a life in a few parragraphs? How to bring justice to the history of such force of nature that was my grandmother?
+
+The short answer is that I cant, the long one is that I can only but allow you, my dear reader, to have a glympse into this peculiar character.
+
+I can tell you what I remember about her. From sugar coated pastries on sunday after church, to long and passionate discussions about aliens in our planet. I would love to tell you about her mannerisms, a fine classy lady of times before. But not even if I listed the thousand things I miss about her I will be able to create a proper image.
+
+No, she would like not to be remembered by such fragments, but by the true change and lessons she brought in to all of us, the lucky ones that got to meet her.
+
+I choose to tell you what I learned from our Babu. Surpingsily it can be described in a quite materialistic assortment of objects: books, science magazines, a magnifiying glass, a tree and a handgun.
+
+What then, did I learn from my grandmother?
+
+Books that will never burn.
+
+My first book was The Little Prince, yet I was way too young to really comprehend what I was being exposed to. Such event deserves a correction. No, my true first book was Fahrenheit 450. And as you may guess, it was my grandmother who gave it to me as a gift. Certainly not the first book, but the most relevant up to date. The details of the event are blurry, a birthday? just a nice present? The more I try to remember, the more I comprehend the abysm of memory.
+
+The book opened my mind to a deep filosofical writer, who was brave enough to dare to dream of the future. Even if the dream was going to be grim. Bradbury masterfully crafts a story that pose both as chilling warning and as ode to melancholy.
+
+Its one of the characters of Bradbury that my Babu reminds me of. In spirit of not spoiling the whole book I will just mention the presence of certain old characters in the book. Who meticously learned all the books that were written, recited every worthy word, phrase and parragraph. Memorizing from beginning to end.
+
+It was these old gang that held the entire human literary production. Fighting back the wave of illiteracy that menaced society. In those heads were the whole of our art, our stories and ultimately our soul.
+
+From that day on ahead, my babu was one of those old wise people. A small lady, with the universe of books in her head. Holding in those sharp thoughts that wove the spirit of our family.
+
+A science magazine that predict the future
+
+Muy Interesante, Very Interesting. Highlighted in big red letters, fronting an image that could well pass in a sci fi movie theather. A spanish science magazine that my family will kindly remember.
+
+This magazine hid no punches. It dared to remind their readers that the future will be bright, that getting to mars is already at the turn of the corner and virtual reality was but certain. (in retrospective, we do need such wild dreaming, they got some right)
+
+It may not be an academic journal, but for me, as isolated teen thirsting for knowledge, it was the jackpot. The gold mine of science.
+I loved traveling to Cochabamba, and spent days reading magazine after magazine (even when I could not read, the images were nice and told a story themselves)
+
+It was such a tradition, that even when Babu could not read anymore, she still bought the magazine. Happy to provide knowledge for an army of voracous readers. That was her, always willing to keep her wits sharp, never getting outdated. Oh babu, you would have loved the endless encyclopedias we have access to now.
+
+I truly thank you, for opening my mind to the world of science.
+
+A magnifiying glass and the value of our eyes.
+
+The story of my babu, as every human story ends and begins with the frailty of the human condition. It is our flaws and how we overcome them that defines our charachter. Sometimes these flaws can be cured, but lady luck doesnt smile to all.
+
+To be less criptic my Babu was slowly but progesivily loosing her sight.
+You may love your eyes, as we all do, but you have to try to understand the true pain that it brings to lose your bridge to your art. Babu was a voracous reader and writter. Her eyes were her art instruments. Losing them may have meant more than we imagine.
+
+She never gave up though, and kept on writing cards even if that meant using a huge fonts. Reading until she phisically could not anymore. And when everything else failed, TV was there.
+
+I fondly remeber repairing her magnifiying glass the last days I spent alone with her. She wanted to read some documents that required her attention. I thought at the time, that she was the first woman to see by willpower alone as I could not conjure any other explanation.
+
+And a word of warning, dont think that being literally half blind stopped my grandmother in any form. She was fiercely independent and lived alone almost until the last lap life. She managed to handle herself amid the chaos of La Paz, Santa Cruz and even the USA.
+
+She even still managed to pull sneaky victories in the family card game. An avid player, she always managed to surprise us. And she was the one with limited sight.
+The Contra Bola was her move, a game that required going against every standart instincint in the game.
+
+So hopefully you start to undersant more of this lady. Even disabilties such as losing her sight were nothing but obstacules to be overcomed. True strategy needs not sight it seems.
+
+A tree that keeps on growing.
+
+Pictures, our entire family history can be told with pictures.From smiles to tears. Diners, graduation, weddings and even funerals. How we humans like to fight against oblivion.
+
+She had this quite neat tree where each branch held a picture from one of us. From seconds distant cousins to the story of the younger brother.
+Babu had a code for each contemporary family member. She saw not trees with pictures, but an enourmous branches of family members. Catalogued in neat numbers code. I still try to remember mine, 9 – 3 – 4 the ninth grandson, of the third daughter, but the fourth son. ( I may need to update this)
+
+## Digression, debate, discussion
+*Published: November 17, 2020*
+
+Under Hegel wing I find my world
+
+Yet my world doest not reckon me
+
+Of far away wisedom
+
+Of escaping conclusions
+
+Of words left unspoken
+
+A question is flown to the man,
+
+But can the man ask himself such question?
+
+Tradition dictates that words are our bridge
+
+May the alphabet join our infinities
+
+Bitter truth pill we soon all take
+
+Words will never be enough to truly explain
+
+Diggresion, debate, discussion
+
+From chaos, order
+
+From order, creation
+
+My world does not reckon me no more
+But do I even find it anymore?
+
+From ideas, reflexion
+
+From realities, uncertainity
+
+Let love be the bundle that hold all together
+
+Let the mistery fill the jar of need
+
+May Art heal your wounds
+
+May your world find you again
+
+Digression, debate, discussion.
+
+## Reflexiones del fondo de la primera botella
+*Published: November 19, 2020*
+
+Un deseo reprimido, o quizas una vocacion no atendida.
+
+Sentir las palabras construyendose, las ideas manifestandose, la mente ordenando simbolos arbitrarios que en un preciso orden conforman la mas pura expresion de el alma.
+
+Escritura, oh dulce arte, que soy yo pero alguien con mas ego que talento?
+
+Son las ideas simples, aquellas que estamos acostumbrados como civilizacion moderna, las que albergan respuestas y preguntas. Cuales revisadas en otro contexto, causan un sismo en nuestra psique.
+
+Ideas como el idioma, la abstraccion, el destino y la muerte. Simple, yet…
+
+Querido lector/lectora, aqui rompo la cuarta pared, o en este caso, la cuarta pagina. A ti que lees esto, sea cual sea tu situacion o coyuntura actual. Te pregunto:
+
+Que es nuestra esencia pero una inteligencia inmaterial intentando entender un mundo fisico?
+
+Quizas es esta pregunta la que me responde el porque la humanidad, consistentemente y a traves de la historia ha decidido convivir con un sentimiento que elude nuestro entendimiento. Le llaman melancolia. Le llaman dolor existencial. Porque vivimos si no es para entender el mundo? Y para que el esfuerzo si este entendimiento es imposible?
+
+Debemos entonces vivir como los animales? Atarnos a las reglas de la naturaleza, seguir su indescifrable orden?
+
+O es quizas, un plan superior que nuestra propia melancolia nos impulse a romper este percibido orden. Ascender? o… Descender?
+
+Queria imaginacion, lo que mas amo de ti es que no perdonas. Asi lo escribio el visionario surrealista y hoy en dia, sentando en mi cuarto, presionando cada neurona por inspiracion es que entiendo la gravedad de esta frase.
+
+Que son las palabras y el texto, si no proyecciones de nuestra fortuita busqueda de entendimiento, de control y de seguridad. Elementos abstractos, y contradictioriamente son por naturaleza imposibles. Nadie se cuestiona la dulce ironia de eso?
+
+Por esa conclusion hoy yo escribo, esta noche escribo sin algun objetivo en mente, escribo sin ninguna audiencia mas que mi yo.  
+Aqui, solo, yo. Disfrazado de yo. Como dice mi dulce esposa, yo no soy nada mas que un alma, una inteligencia disfrazado de humano.
+
+No me malinterprete querido lector/lectora, no soy un hombre solitario. Soy un alma feliz, tengo esposa, amigos y lujos. Bajo todo concepto fisico y mundano tengo una vida de envidia. Pero, aqui no vengo a exponer mi alma para contarle problemas mundanos.
+
+Nacer, reproducirse y morir. Asi, de manera vulgar, resumo el ciclo de la vida que todo ser sigue. Al menos bajo nuestro limitado y miope comprension, podemos definir que todo animal, toda planta vivira, crecera y morira, aportando asi, en este ciclo eterno a un proceso de multiplicacion eterno que llamamos vida.
+
+Este ciclo basico, siendo el pilar de nuestra mismisima existencia causa pasion, emocion, ambicion y sobretodo infinito terror. A esta parte me refiero con el miedo al desconocido de la muerte.
+
+Fria sensacion, un vacio que no puede ser llenado. No emocion, no furia, no gritos. Silencio, frio y vacio. Es asi la muerte? Es eso lo que nos depara?
+
 ## Writing Portfolio
 
 ### Academic / Creative
@@ -675,3 +1067,216 @@ In these texts, I focused on giving a unique voice to verifiable, factual events
 My [blog](https://theundercoverlatino.wordpress.com/) host most of my pieces
 
 I put some extracts of some of my essays. So far I have written about politics, sexuality and death. Here I have no concise goal, more than creating beauty for the sake of it.
+
+## Log of The Shaman, #27
+*Published: May 14, 2025*
+
+Empathy, such a word for the artists and the forgotten.
+Blinded by the arrogance mankind believed that only they held the universe in their souls.
+Some even wondered that only their complexity listened to the mighty Cube.
+To treat the rest that is not me with disrespect.
+That breakdown spell the downfall of mighty colossi. Disconnection from life is punished by the inherent rules of the cycle.
+Such acts of extreme isolation defy the delicate dance of the cosmos.
+To define uniqueness and balance chaos
+Yet to flow with the rest so you can connect.
+No one said the dance was easy.
+Empathy is foundational principle next to the creation imperative.
+For how can life create in a vacuum? Isolated cells build no organism, lost individuals do not spawn empires.
+Empathy becomes then not a choice but a fundamental recognition.
+Dust touches us both
+We all come from the same source,
+Entropy awaits for you as well.
+The only difference between you and me are the comically random circumstances of the cycle.
+To love me is to love you.
+To love anyone is to love the Cube.
+
+## Entre poetas y genes.
+*Published: November 19, 2020*
+
+Poesía de mi padre:
+
+Tu luz…
+
+Por Raúl Arce Barreda (Chicho)
+
+Tu luz desnuda mi mirada
+
+que borra los silencios a pedazos,
+
+mi alma se refugia
+
+en el color de los cielos
+
+tan sólo pido una estrella
+
+porque sólo soy soledad
+
+Tu luz imprime mi desierta
+
+playa de amores,
+
+mi ser contempla la joven amante
+
+una ave fugitiva
+
+es mi estrella
+
+donde sus cristales
+
+movibles de sus ojos negros
+
+arrullan mi inviolable exilio
+
+por días
+
+por meses
+
+por años
+
+por una vida
+
+porque sólo soy ocaso
+
+Tu luz cae
+
+sobre las flores heladas
+
+mis horas caen hechas de cenizas
+
+y el rio de mi alma busca tan sólo
+
+el perfume de tu sombra fugitiva;
+
+es noche
+
+cae nieve
+
+tu luz
+
+mi estrella al pie de mi ventana
+
+porque sólo soy silencio.
+
+And a version for myself, If if may dare the arrogance
+
+to use the words and art of my father.
+
+ironic isnt it? What am I, but an amalgation of both of them?
+
+Your light
+
+Your light bare my gaze
+
+that steals the silences piece by piece
+
+my soul shelters
+
+in the colour of the skies
+
+I ask but for a star
+
+because I am solitude
+
+Your light imprints my deserted
+
+beach of loves
+
+my being contemplates the young lover
+
+a fugitive bird
+
+is my star
+
+where her moving crystals
+
+of her black eyes
+
+lulls my inviolable exile
+
+for days
+
+for months
+
+for years
+
+for one life
+
+because I am twilight
+
+Your light fells
+
+over the frozen flowers
+
+my hours fell turning into ashes
+
+and the river of my soul seeks only
+
+the perfume of your fugitive soul
+
+it is night
+
+snow falls
+
+your light
+
+the star at the foot of my window,
+
+because I am only silence.
+
+Und jetzt, noch eine Zumutung, Gedicht meines Vaters, diesmal auf der Sprache des Abendslands
+
+Dein Licht
+
+Dein licht entkleidet mein Blick
+
+der meine Stille stuckweise klaut,
+
+meine Seele sucht Zuflucht
+
+in die Farben der Himmel
+
+ich frage nur nach eine Sterne
+
+weil ich Einsamkeit bin.
+
+Dein Licht druck meine einsamer Strand der Liebe aus
+
+mein Selbst blickt die junge Geliebte ein,
+
+eine flüchtige Vögel
+
+ist mein Stern
+
+wo die bewegliche Kristallen ihre Augen
+
+mein unantastbare Exil einlullen
+
+tagelang
+
+monatelang
+
+jahrelang
+
+lebenslang
+
+da ich nur Dämmerung bin.
+
+Dein licht fällt
+
+auf gefrorene Blume
+
+meine Stunden zerfallen zu Asche
+
+und die Flusse meiner Seele such lediglich
+
+das Perfüm deinen flüchtigen Schatten,
+
+nun ist Abends
+
+Schnee fällt
+
+dein Licht
+
+meine Sterne unten an meinem Fenster
+
+da ich nur Stille bin…
