@@ -30,7 +30,8 @@ next-env.d.ts
 .cursor/
 
 # Legacy content (not part of the build)
-Legacy/
+legacy/
+cv-website/
 
 # OS-specific
 .DS_Store

@@ -4,14 +4,12 @@
 
 ## AI Solutions Engineer | Nov 2024 – Present
 
-**Jobilla DACH — Research & Development** · Berlin, Germany (Remote)\
+**Jobilla DACH — Research & Development** · Cologne/Berlin/Bonn, Germany (Remote)\
 *Building the AI future*
 
 ### Technical Innovation & Systems Development
 
 - Eliminated **€10 000+** annual Shutterstock costs by engineering an AI image‑generation pipeline integrating Midjourney and other AI image generators with Magnific upscaler.
-- Developed Python‑based job‑classification tools using Gemini API, cutting large‑dataset processing from hours to minutes while maintaining **99 % accuracy**.
-- Built market‑intelligence tools combining BeautifulSoup web‑scraping with AI analysis, delivering real‑time competitor insights.
 - Implemented a Laravel prototype enabling AI logic to write securely to the database.
 - Architected a content‑evaluation framework with an AI‑driven subjective taxonomy — the first systematic approach to content‑quality assessment for social recruiting in the market.
 - Co‑led an **A/B Portfolio** experimentation framework, validating AI‑generated content via curated key performance indicators.
@@ -21,11 +19,19 @@
 - Contributed regularly to the proprietary **AI logic** of Jobilla's platform, designing structured output formats and driving data‑driven refinements for greater reliability and insight quality.
 - Continously developed internal digital‑marketing content workflows, blending copywriting expertise with AI tooling to deliver **scalable, performance‑oriented solutions** used in the current website relaunch.
 
+### Business Intelligence & Data Science
+
+- Dataset enrichment for potential leads using web‑scraping and AI‑assisted analysis.
+- Daily analysis of campaign performance using SQL & JSON Querying with Metabase.
+- Created a **data‑driven dashboard** for the company's internal use, providing insights into the performance of AI‑generated content.
+- Development of quick feedback processes for the content creation team enabling data‑driven prompt refinements.
+- Developed Python‑based job‑classification tools using Gemini API, cutting large‑dataset processing from hours to minutes while maintaining **99 % accuracy**.
+- Built market‑intelligence tools combining BeautifulSoup web‑scraping with AI analysis, delivering real‑time competitor insights.
 ---
 
 ## Gen AI & Content Specialist | Aug 2023 – Nov 2024
 
-**Jobilla DACH — Service Production** · Berlin, Germany (Remote)\
+**Jobilla DACH — Service Production** · Cologne/Berlin/Bonn, Germany (Remote)\
 *The bridge between tech and creativity*
 
 ### Strategic Impact & Innovation

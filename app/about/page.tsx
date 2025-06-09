@@ -43,12 +43,10 @@ export default function About() {
               </div>
               <div className="w-full md:w-2/3">
                 <p className="text-lg mb-6 text-paper/90">
-                  {/* Updated Bio Paragraph 1 from CV */}
-                  As an AI Solutions Engineer at Jobilla, I develop proprietary AI tools and systems that revolutionize the recruitment process. My background combines technical expertise in AI development and programming with creative skills in content generation, copywriting, and design. I focus on building solutions that drive efficiency, reduce costs, and deliver measurable results, such as engineering an image pipeline saving over €10,000 annually and developing job classification tools with 99% accuracy.
+                  As an AI Solutions Engineer at Jobilla DACH, I've engineered cutting-edge AI systems that deliver measurable business impact. I eliminated over €10,000 in annual costs through an AI image-generation pipeline, developed Python job-classification tools with 99% accuracy, and architected the first systematic content-quality assessment framework for social recruiting. My expertise spans AI development, prompt engineering, data science, and creative workflow optimization across multilingual environments.
                 </p>
                 <p className="text-lg mb-6 text-paper/90">
-                  {/* Updated Bio Paragraph 2 from CV */}
-                  With a foundation in International Relations and a multilingual skillset (fluent in Spanish, German, English), I bridge technical complexities with strategic business needs. I'm adept at translating complex AI concepts for diverse teams and have experience leading AI adoption and training initiatives. I thrive on leveraging technology to solve problems and create compelling digital experiences, always aiming to deliver solutions that are both innovative and impactful.
+                  With a foundation in International Relations and Management from OTH Germany and multilingual fluency (Spanish, German, English), I bridge technical innovation with strategic business impact. I've successfully led AI adoption initiatives, trained C-suite executives, and transformed content creation workflows to achieve 90% AI utilization. My approach combines deep technical knowledge with creative problem-solving, whether building market-intelligence tools, developing multilingual digital toolkits, or open-sourcing applications that help others advance their careers.
                 </p>
                 <Button asChild className="bg-gold hover:bg-gold/90 text-navy border-none">
                   <a href="/cv-guillermo-stumpf.pdf" download>
@@ -69,7 +67,6 @@ export default function About() {
           {/* Extended Skills Grid */}
           <section className="mb-16">
             <h2 className="text-2xl font-bold mb-6">Skills</h2>
-            {/* Updated Skills Section from CV.md */}
             <div className="space-y-8">
                {/* AI Development & Programming */}
                <div className="bg-navy-light p-6 rounded-xl">
@@ -90,7 +87,7 @@ export default function About() {
                     <SkillTag name="Video: Runway, Kling, Sora (Apprentice)" />
                     <SkillTag name="Music: Suno (Apprentice)" />
                     <SkillTag name="Avatar Creation: HeyGen (Apprentice)" />
-                    <SkillTag name="Text: LLM based content generation (Expert)" />
+                    <SkillTag name="Text: LLM Content Generation (Expert)" />
                   </div>
                 </div>
                  {/* AI Expertise & Model Integration */}
@@ -98,11 +95,11 @@ export default function About() {
                   <h3 className="text-xl font-semibold mb-4">AI Expertise & Model Integration</h3>
                   <div className="flex flex-wrap gap-2">
                     <SkillTag name="AI-Agnostic Logic Integration" />
-                    <SkillTag name="Top AI Platforms (Nebius, OpenAI, Vercel AI SDK)" />
+                    <SkillTag name="Nebius, OpenAI, Vercel AI SDK" />
                     <SkillTag name="Structured Output Design" />
                     <SkillTag name="Agentic Tooling Frameworks" />
-                    <SkillTag name="MCP Concepts & Custom Tool Integration" />
-                    <SkillTag name="Model Exp: OpenAI, Anthropic, Gemini, DeepSeek, Mistral, Sonar" />
+                    <SkillTag name="MCP & Custom Tool Integration" />
+                    <SkillTag name="OpenAI, Anthropic, Gemini, DeepSeek, Mistral, Sonar" />
                   </div>
                 </div>
                  {/* Data Science & BI Tools */}
@@ -111,7 +108,7 @@ export default function About() {
                   <div className="flex flex-wrap gap-2">
                     <SkillTag name="SQL Querying (Apprentice)" />
                     <SkillTag name="Data Visualization & Metabase (Professional)" />
-                    <SkillTag name="Datascience Insights (Apprentice)" />
+                    <SkillTag name="Data Science Insights (Apprentice)" />
                   </div>
                 </div>
                  {/* Software & Design Tools */}
@@ -143,7 +140,6 @@ export default function About() {
                     <SkillTag name="Meta Business Suite" />
                   </div>
                 </div>
-                {/* Removed old hardcoded skills */}
             </div>
           </section>
         </div>
